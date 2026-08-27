@@ -1,0 +1,6 @@
+trade by chapter: 1188 rows, 9 chapters
+fx monthly: 132 months
+merged panel: 132 rows, 201501..202512
+2024-01 HS6: 4951 codes, top20 saved
+China GDP: 82 rows -> processed_China_GDP_quarterly.csv
+USA GDP: 44 rows -> processed_USA_GDP_quarterly.csv

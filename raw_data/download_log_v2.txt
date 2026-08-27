@@ -1,0 +1,19 @@
+[07:19:42] START v2 (resume, exponential backoff)
+[07:19:42] === TASK USA_import_from_CHN ===
+[07:19:42]   HS42: 全部完成(跳过)
+[07:19:42]   HS43: 待下载7个月 已完成125个月
+[07:20:02]   HS43 完成新下载: 成功7 失败0 -> C:\Users\26936\wechat_crawl_project\raw_data\comtrade_USA_import_from_CHN_HS43_monthly_2015_2025.csv
+[07:20:02]   HS50: 待下载132个月 已完成0个月
+[07:28:48]   HS50 完成新下载: 成功132 失败0 -> C:\Users\26936\wechat_crawl_project\raw_data\comtrade_USA_import_from_CHN_HS50_monthly_2015_2025.csv
+[07:28:48]   HS51: 待下载132个月 已完成0个月
+[07:37:38]   HS51 完成新下载: 成功132 失败0 -> C:\Users\26936\wechat_crawl_project\raw_data\comtrade_USA_import_from_CHN_HS51_monthly_2015_2025.csv
+[07:37:38]   HS52: 待下载132个月 已完成0个月
+[07:46:25]   HS52 完成新下载: 成功132 失败0 -> C:\Users\26936\wechat_crawl_project\raw_data\comtrade_USA_import_from_CHN_HS52_monthly_2015_2025.csv
+[07:46:25]   HS53: 待下载132个月 已完成0个月
+[07:54:56]   HS53 完成新下载: 成功132 失败0 -> C:\Users\26936\wechat_crawl_project\raw_data\comtrade_USA_import_from_CHN_HS53_monthly_2015_2025.csv
+[07:54:56]   HS54: 待下载132个月 已完成0个月
+[08:04:03]   HS54 完成新下载: 成功132 失败0 -> C:\Users\26936\wechat_crawl_project\raw_data\comtrade_USA_import_from_CHN_HS54_monthly_2015_2025.csv
+[08:04:03]   HS55: 待下载132个月 已完成0个月
+[08:14:03]   HS55 完成新下载: 成功132 失败0 -> C:\Users\26936\wechat_crawl_project\raw_data\comtrade_USA_import_from_CHN_HS55_monthly_2015_2025.csv
+[08:14:03]   HS56: 待下载132个月 已完成0个月
+[08:16:19]     HS56 201607 ERR ReadTimeout HTTPSConnectionPool(host='comtradeapi.un.org', por -> 等8s

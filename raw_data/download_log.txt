@@ -1,0 +1,5 @@
+[07:02:23] START bulk download: reporters US-China, chapters=['42', '43', '50', '51', '52', '53', '54', '55', '56', '57', '58', '59', '60', '61', '62', '63', '64', '65', '66', '67', '94', '95', '96'], months=201501..202512
+[07:02:23] === TASK USA_import_from_CHN ===
+[07:10:37]   DONE chapter HS42: 3260 rows -> C:\Users\26936\wechat_crawl_project\raw_data\comtrade_USA_import_from_CHN_HS42_monthly_2015_2025.csv
+[07:13:50]   USA_import_from_CHN 43 201910 attempt1 HTTP 429
+[07:17:11]   USA_import_from_CHN 43 202412 attempt1 HTTP 429
